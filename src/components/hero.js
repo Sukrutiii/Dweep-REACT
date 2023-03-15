@@ -1,6 +1,7 @@
 import Man from '../assets/dweep io 1.svg'
 import './hero.css'
 
+
 const Hero = ()=> {
   return (
     <>
