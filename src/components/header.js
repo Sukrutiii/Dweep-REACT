@@ -1,7 +1,7 @@
 import Man from '../assets/dweep io 1.svg'
-import './hero.css'
+import './header.css'
 
-const Hero = ()=> {
+const Header = ()=> {
   return (
     <>
     <div className='banner'>
@@ -22,4 +22,4 @@ const Hero = ()=> {
   )
 }
 
-export default Hero
+export default Header
